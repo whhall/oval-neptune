@@ -1,8 +1,8 @@
 ---
 title: home
 banner:
-  title: Amet donec nullam fermentum
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  title: Gnome
+  subtitle: The strains you want at the price you need
   actions:
     - label: Learn More
       url: /no-sidebar
@@ -18,8 +18,7 @@ sections:
           enabled: true
           icon: fa-area-chart
           style: style1
-        description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
+        description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
           ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
           consectetur. Morbi libero orci, consectetur in odio maximus felis.
@@ -28,8 +27,7 @@ sections:
           enabled: true
           icon: fa-pie-chart
           style: style2
-        description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
+        description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
           ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
           consectetur. Morbi libero orci, consectetur in odio maximus felis.
@@ -38,8 +36,7 @@ sections:
           enabled: true
           icon: fa-cube
           style: style3
-        description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
+        description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
           ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
           consectetur. Morbi libero orci, consectetur in odio maximus felis.
@@ -52,8 +49,7 @@ sections:
         url: /contact
         is_primary: false
         is_scrolly: false
-    text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
+    text: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
       lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
       sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
       libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
